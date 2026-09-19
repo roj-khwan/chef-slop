@@ -1,0 +1,1497 @@
+[
+  {
+    "name": "Spaghetti Carbonara",
+    "ingredients": ["spaghetti", "guanciale", "pecorino romano", "eggs", "black pepper"],
+    "keywords": ["italian", "pasta", "classic"]
+  },
+  {
+    "name": "Cacio e Pepe",
+    "ingredients": ["spaghetti", "pecorino romano", "black pepper"],
+    "keywords": ["italian", "pasta", "roman"]
+  },
+  {
+    "name": "Pasta alla Gricia",
+    "ingredients": ["rigatoni", "guanciale", "pecorino romano", "black pepper"],
+    "keywords": ["italian", "pasta", "roman"]
+  },
+  {
+    "name": "Rigatoni alla Norma",
+    "ingredients": ["rigatoni", "eggplant", "tomatoes", "ricotta salata", "basil", "garlic"],
+    "keywords": ["italian", "pasta", "sicilian"]
+  },
+  {
+    "name": "Penne all'Arrabbiata",
+    "ingredients": ["penne", "tomatoes", "garlic", "chili flakes", "olive oil", "parsley"],
+    "keywords": ["italian", "pasta", "spicy"]
+  },
+  {
+    "name": "Lasagna Bolognese",
+    "ingredients": ["lasagna sheets", "beef ragu", "bechamel sauce", "parmigiano reggiano"],
+    "keywords": ["italian", "baked pasta", "bologna"]
+  },
+  {
+    "name": "Fettuccine Alfredo",
+    "ingredients": ["fettuccine", "butter", "parmigiano reggiano"],
+    "keywords": ["italian", "pasta", "rich"]
+  },
+  {
+    "name": "Spaghetti alle Vongole",
+    "ingredients": ["spaghetti", "clams", "garlic", "white wine", "chili", "parsley"],
+    "keywords": ["italian", "pasta", "seafood"]
+  },
+  {
+    "name": "Busiate al Pesto Trapanese",
+    "ingredients": ["busiate pasta", "tomatoes", "almonds", "garlic", "basil", "pecorino"],
+    "keywords": ["italian", "pasta", "sicilian"]
+  },
+  {
+    "name": "Orecchiette con Cime di Rapa",
+    "ingredients": ["orecchiette", "turnip tops", "anchovies", "garlic", "chili flakes"],
+    "keywords": ["italian", "pasta", "puglia"]
+  },
+  {
+    "name": "Pappardelle al Ragù di Cinghiale",
+    "ingredients": ["pappardelle", "wild boar", "red wine", "tomatoes", "vegetables", "herbs"],
+    "keywords": ["italian", "pasta", "game meat"]
+  },
+  {
+    "name": "Risotto ai Frutti di Mare",
+    "ingredients": ["arborio rice", "mixed seafood", "white wine", "fish stock", "garlic", "parsley"],
+    "keywords": ["italian", "risotto", "seafood"]
+  },
+  {
+    "name": "Risotto alla Milanese",
+    "ingredients": ["arborio rice", "saffron", "beef bone marrow", "butter", "parmigiano reggiano", "onion"],
+    "keywords": ["italian", "risotto", "milan"]
+  },
+  {
+    "name": "Risotto ai Funghi Porcini",
+    "ingredients": ["arborio rice", "porcini mushrooms", "garlic", "white wine", "butter", "parmesan"],
+    "keywords": ["italian", "risotto", "mushrooms"]
+  },
+  {
+    "name": "Risi e Bisi",
+    "ingredients": ["arborio rice", "green peas", "pancetta", "onion", "vegetable stock", "parmesan"],
+    "keywords": ["italian", "rice", "venetian"]
+  },
+  {
+    "name": "Tortellini in Brodo",
+    "ingredients": ["tortellini stuffed with meat", "rich chicken or beef broth", "parmigiano reggiano"],
+    "keywords": ["italian", "soup", "emilia-romagna"]
+  },
+  {
+    "name": "Gnocchi alla Sorrentina",
+    "ingredients": ["potato gnocchi", "tomato sauce", "mozzarella", "basil", "parmesan"],
+    "keywords": ["italian", "baked gnocchi", "campania"]
+  },
+  {
+    "name": "Bucatini all'Amatriciana",
+    "ingredients": ["bucatini", "guanciale", "peeled tomatoes", "pecorino romano", "chili"],
+    "keywords": ["italian", "pasta", "roman"]
+  },
+  {
+    "name": "Spaghetti Puttanesca",
+    "ingredients": ["spaghetti", "tomatoes", "capers", "black olives", "anchovies", "garlic"],
+    "keywords": ["italian", "pasta", "pungent"]
+  },
+  {
+    "name": "Tagliatelle al Tartufo",
+    "ingredients": ["tagliatelle", "fresh black truffle", "butter", "parmigiano reggiano"],
+    "keywords": ["italian", "pasta", "luxury"]
+  },
+  {
+    "name": "Osso Buco alla Milanese",
+    "ingredients": ["veal shanks", "white wine", "broth", "vegetables", "gremolata", "butter"],
+    "keywords": ["italian", "mains", "veal"]
+  },
+  {
+    "name": "Saltimbocca alla Romana",
+    "ingredients": ["veal cutlets", "prosciutto crudo", "sage leaves", "white wine", "butter"],
+    "keywords": ["italian", "mains", "roman"]
+  },
+  {
+    "name": "Bistecca alla Fiorentina",
+    "ingredients": ["chianina T-bone steak", "olive oil", "rosemary", "coarse salt", "black pepper"],
+    "keywords": ["italian", "steak", "tuscany"]
+  },
+  {
+    "name": "Arancini di Riso",
+    "ingredients": ["cooked rice", "peas", "ragu", "mozzarella", "breadcrumbs", "egg"],
+    "keywords": ["italian", "appetizer", "fried"]
+  },
+  {
+    "name": "Pollo alla Parmigiana",
+    "ingredients": ["chicken breast", "breadcrumbs", "marinara sauce", "mozzarella", "parmesan"],
+    "keywords": ["italian-american", "mains", "poultry"]
+  },
+  {
+    "name": "Melanzane alla Parmigiana",
+    "ingredients": ["eggplant", "mozzarella", "parmigiano reggiano", "tomato sauce", "basil"],
+    "keywords": ["italian", "vegetarian", "baked"]
+  },
+  {
+    "name": "Porchetta",
+    "ingredients": ["whole suckling pig", "garlic", "rosemary", "fennel seeds", "salt", "pepper"],
+    "keywords": ["italian", "roast", "pork"]
+  },
+  {
+    "name": "Arrosticini",
+    "ingredients": ["mutton skewers", "salt"],
+    "keywords": ["italian", "street food", "abruzzo"]
+  },
+  {
+    "name": "Baccalà alla Vicentina",
+    "ingredients": ["dried cod", "milk", "anchovies", "onions", "flour", "polenta"],
+    "keywords": ["italian", "seafood", "veneto"]
+  },
+  {
+    "name": "Fritto Misto di Mare",
+    "ingredients": ["mixed fish and seafood", "flour", "vegetable oil", "lemon"],
+    "keywords": ["italian", "seafood", "fried"]
+  },
+  {
+    "name": "Braciole di Maiale",
+    "ingredients": ["pork chops", "garlic", "breadcrumb filling", "pine nuts", "raisins", "tomato sauce"],
+    "keywords": ["italian", "pork", "regional"]
+  },
+  {
+    "name": "Vitello Tonnato",
+    "ingredients": ["slender veal round", "tuna", "mayonnaise", "capers", "anchovies", "lemon juice"],
+    "keywords": ["italian", "cold dish", "piemonte"]
+  },
+  {
+    "name": "Cotoletta alla Milanese",
+    "ingredients": ["veal cutlet on the bone", "eggs", "breadcrumbs", "clarified butter"],
+    "keywords": ["italian", "mains", "milan"]
+  },
+  {
+    "name": "Polenta Taragna con Spezzatino",
+    "ingredients": ["buckwheat and corn polenta", "beef stew", "butter", "cheese"],
+    "keywords": ["italian", "comfort food", "lombardy"]
+  },
+  {
+    "name": "Trippa alla Romana",
+    "ingredients": ["beef tripe", "tomatoes", "pecorino romano", "mint", "white wine", "vegetables"],
+    "keywords": ["italian", "offal", "roman"]
+  },
+  {
+    "name": "Spezzatino di Manzo",
+    "ingredients": ["beef chuck", "potatoes", "carrots", "onion", "tomato paste", "broth"],
+    "keywords": ["italian", "stew", "beef"]
+  },
+  {
+    "name": "Sarde a Beccafico",
+    "ingredients": ["sardines", "breadcrumbs", "raisins", "pine nuts", "orange juice", "parsley"],
+    "keywords": ["italian", "seafood", "sicilian"]
+  },
+  {
+    "name": "Involtini di Sicilia",
+    "ingredients": ["thin beef slices", "breadcrumbs", "caciocavallo cheese", "onion", "bay leaves"],
+    "keywords": ["italian", "beef", "sicilian"]
+  },
+  {
+    "name": "Frittata di Pasta",
+    "ingredients": ["leftover spaghetti", "eggs", "parmesan", "pancetta", "black pepper", "olive oil"],
+    "keywords": ["italian", "egg dish", "naples"]
+  },
+  {
+    "name": "Carpaccio di Manzo",
+    "ingredients": ["raw beef tenderloin", "arugula", "parmigiano reggiano", "olive oil", "lemon juice"],
+    "keywords": ["italian", "appetizer", "raw"]
+  },
+  {
+    "name": "Caponata Siciliana",
+    "ingredients": ["eggplant", "celery", "capers", "green olives", "tomatoes", "sweet and sour vinegar"],
+    "keywords": ["italian", "side dish", "sicilian"]
+  },
+  {
+    "name": "Ribolla Toscana",
+    "ingredients": ["tuscan kale", "cannellini beans", "stale bread", "cabbage", "potatoes", "olive oil"],
+    "keywords": ["italian", "soup", "tuscany"]
+  },
+  {
+    "name": "Minestrone alla Genovese",
+    "ingredients": ["mixed vegetables", "potatoes", "beans", "pasta", "genovese pesto"],
+    "keywords": ["italian", "soup", "liguria"]
+  },
+  {
+    "name": "Panzanella",
+    "ingredients": ["stale bread", "ripe tomatoes", "red onion", "cucumber", "basil", "vinaigrette"],
+    "keywords": ["italian", "salad", "tuscany"]
+  },
+  {
+    "name": "Farinata di Ceci",
+    "ingredients": ["chickpea flour", "water", "olive oil", "salt", "black pepper"],
+    "keywords": ["italian", "flatbread", "liguria"]
+  },
+  {
+    "name": "Pizza Margherita",
+    "ingredients": ["pizza dough", "san marzano tomatoes", "mozzarella di bufala", "basil", "olive oil"],
+    "keywords": ["italian", "pizza", "naples"]
+  },
+  {
+    "name": "Calzone Ripieno",
+    "ingredients": ["pizza dough", "ricotta", "salami", "mozzarella", "black pepper"],
+    "keywords": ["italian", "pizza", "folded"]
+  },
+  {
+    "name": "Focaccia Genovese",
+    "ingredients": ["flour", "water", "yeast", "olive oil", "coarse sea salt", "rosemary"],
+    "keywords": ["italian", "bread", "liguria"]
+  },
+  {
+    "name": "Arancina Siciliana",
+    "ingredients": ["saffron rice", "meat ragu", "peas", "breadcrumbs", "frying oil"],
+    "keywords": ["italian", "street food", "sicily"]
+  },
+  {
+    "name": "Panzerotti Fritti",
+    "ingredients": ["dough", "mozzarella", "tomato puree", "frying oil"],
+    "keywords": ["italian", "street food", "puglia"]
+  },
+  {
+    "name": "Coq au Vin",
+    "ingredients": ["chicken", "burgundy wine", "bacon", "mushrooms", "pearl onions", "garlic"],
+    "keywords": ["french", "stew", "poultry"]
+  },
+  {
+    "name": "Beef Bourguignon",
+    "ingredients": ["beef chuck", "red burgundy wine", "bacon", "mushrooms", "carrots", "beef stock"],
+    "keywords": ["french", "stew", "beef"]
+  },
+  {
+    "name": "Bouillabaisse",
+    "ingredients": ["variety of fish", "shellfish", "tomatoes", "garlic", "fennel", "saffron", "rouille"],
+    "keywords": ["french", "soup", "marseille"]
+  },
+  {
+    "name": "Ratatouille",
+    "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes", "onions", "herbes de provence"],
+    "keywords": ["french", "vegetarian", "provence"]
+  },
+  {
+    "name": "Quiche Lorraine",
+    "ingredients": ["pie crust", "lardons", "eggs", "heavy cream", "gruyere cheese", "nutmeg"],
+    "keywords": ["french", "tart", "baking"]
+  },
+  {
+    "name": "Cassoulet",
+    "ingredients": ["white beans", "duck confit", "pork sausages", "pork skin", "garlic"],
+    "keywords": ["french", "casserole", "languedoc"]
+  },
+  {
+    "name": "Steak Frites",
+    "ingredients": ["sirloin or ribeye steak", "potatoes for fries", "butter", "black pepper"],
+    "keywords": ["french", "bistro", "beef"]
+  },
+  {
+    "name": "Duck Confit",
+    "ingredients": ["duck legs", "duck fat", "salt", "garlic", "thyme"],
+    "keywords": ["french", "poultry", "preserved"]
+  },
+  {
+    "name": "Tartiflette",
+    "ingredients": ["potatoes", "reblochon cheese", "lardons", "onions", "white wine"],
+    "keywords": ["french", "comfort food", "savoie"]
+  },
+  {
+    "name": "Poulet Rôti",
+    "ingredients": ["whole chicken", "butter", "thyme", "lemon", "garlic", "salt"],
+    "keywords": ["french", "roast", "poultry"]
+  },
+  {
+    "name": "Soupe à l'Oignon",
+    "ingredients": ["caramelized onions", "beef broth", "white wine", "baguette", "gruyere cheese"],
+    "keywords": ["french", "soup", "bistro"]
+  },
+  {
+    "name": "Croque Monsieur",
+    "ingredients": ["brioche bread", "ham", "gruyere cheese", "bechamel sauce", "Dijon mustard"],
+    "keywords": ["french", "sandwich", "bistro"]
+  },
+  {
+    "name": "Croque Madame",
+    "ingredients": ["croque monsieur", "fried egg on top"],
+    "keywords": ["french", "sandwich", "bistro"]
+  },
+  {
+    "name": "Bouef à la Mode",
+    "ingredients": ["beef rump", "calves' feet", "white wine", "brandy", "carrots", "onions"],
+    "keywords": ["french", "stew", "braised"]
+  },
+  {
+    "name": "Blanquette de Veau",
+    "ingredients": ["veal shoulder", "butter", "flour", "mushrooms", "pearl onions", "egg yolks", "cream"],
+    "keywords": ["french", "stew", "veal"]
+  },
+  {
+    "name": "Salade Niçoise",
+    "ingredients": ["tuna", "hard-boiled eggs", "tomatoes", "niçoise olives", "anchovies", "green beans"],
+    "keywords": ["french", "salad", "nice"]
+  },
+  {
+    "name": "Gratin Dauphinois",
+    "ingredients": ["sliced potatoes", "heavy cream", "garlic", "butter", "gruyere"],
+    "keywords": ["french", "side dish", "potatoes"]
+  },
+  {
+    "name": "Pot-au-Feu",
+    "ingredients": ["beef cuts", "marrow bones", "root vegetables", "bouquet garni", "cloves"],
+    "keywords": ["french", "boiled dinner", "classic"]
+  },
+  {
+    "name": "Quiche Florentine",
+    "ingredients": ["pie crust", "spinach", "eggs", "cream", "swiss cheese", "nutmeg"],
+    "keywords": ["french", "tart", "vegetarian"]
+  },
+  {
+    "name": "Sole Meunière",
+    "ingredients": ["whole sole fish", "flour", "butter", "lemon juice", "parsley"],
+    "keywords": ["french", "seafood", "fish"]
+  },
+  {
+    "name": "Moules Marinières",
+    "ingredients": ["mussels", "shallots", "white wine", "butter", "garlic", "parsley"],
+    "keywords": ["french", "seafood", "bistro"]
+  },
+  {
+    "name": "Tartare de Boeuf",
+    "ingredients": ["raw beef tenderloin", "capers", "shallots", "egg yolk", "Dijon mustard", "worcestershire"],
+    "keywords": ["french", "raw", "appetizer"]
+  },
+  {
+    "name": "Escargots de Bourgogne",
+    "ingredients": ["land snails", "garlic butter", "parsley", "shallots"],
+    "keywords": ["french", "appetizer", "delicacy"]
+  },
+  {
+    "name": "Galette de Sarrasin",
+    "ingredients": ["buckwheat flour", "water", "salt", "butter", "egg", "ham", "cheese"],
+    "keywords": ["french", "crepe", "brittany"]
+  },
+  {
+    "name": "Daube de Boeuf",
+    "ingredients": ["beef chuck", "red wine", "orange peel", "olives", "herbs", "vegetables"],
+    "keywords": ["french", "stew", "provence"]
+  },
+  {
+    "name": "Wiener Schnitzel",
+    "ingredients": ["veal cutlet", "flour", "eggs", "breadcrumbs", "lard or butter", "lemon"],
+    "keywords": ["austrian", "fried", "mains"]
+  },
+  {
+    "name": "Sauerbraten",
+    "ingredients": ["pot roast marinated in vinegar", "spices", "red wine", "gingersnap gravy"],
+    "keywords": ["german", "roast", "marinated"]
+  },
+  {
+    "name": "Schweinshaxe",
+    "ingredients": ["pork knuckle", "caraway seeds", "garlic", "dark beer", "onion"],
+    "keywords": ["german", "pork", "bavarian"]
+  },
+  {
+    "name": "Bratwurst mit Kartoffelsalat",
+    "ingredients": ["bratwurst sausage", "mustard", "german potato salad", "vinegar"],
+    "keywords": ["german", "sausage", "comfort food"]
+  },
+  {
+    "name": "Kartoffelknödel",
+    "ingredients": ["potatoes", "potato starch", "egg", "salt", "bread cubes"],
+    "keywords": ["german", "dumplings", "side dish"]
+  },
+  {
+    "name": "Spätzle mit Käse",
+    "ingredients": ["egg noodles", "emmental cheese", "fried onions", "butter"],
+    "keywords": ["german", "pasta", "swabian"]
+  },
+  {
+    "name": "Rouladen",
+    "ingredients": ["beef slices", "mustard", "bacon", "onion", "pickles", "beef broth"],
+    "keywords": ["german", "beef", "rolled"]
+  },
+  {
+    "name": "Kassler mit Sauerkraut",
+    "ingredients": ["smoked pork loin", "sauerkraut", "junipers", "potatoes"],
+    "keywords": ["german", "pork", "smoked"]
+  },
+  {
+    "name": "Labskaus",
+    "ingredients": ["salted beef", "potatoes", "beets", "pickled herring", "fried egg", "gherkins"],
+    "keywords": ["german", "seafaring", "northern"]
+  },
+  {
+    "name": "Leberkäse",
+    "ingredients": ["fine-ground cured beef and pork", "bacon", "water", "onion", "marjoram"],
+    "keywords": ["german", "meatloaf", "bavarian"]
+  },
+  {
+    "name": "Flammkuchen",
+    "ingredients": ["thin dough", "crème fraîche", "sliced onions", "lardons"],
+    "keywords": ["german/french", "flatbread", "alsace"]
+  },
+  {
+    "name": "Fish and Chips",
+    "ingredients": ["cod or haddock", "beer batter", "potatoes for chips", "tartar sauce", "malt vinegar"],
+    "keywords": ["british", "fried", "pub food"]
+  },
+  {
+    "name": "Shepherd's Pie",
+    "ingredients": ["minced lamb", "onions", "peas", "carrots", "gravy", "mashed potato topping"],
+    "keywords": ["british", "casserole", "lamb"]
+  },
+  {
+    "name": "Cottage Pie",
+    "ingredients": ["minced beef", "onions", "vegetables", "gravy", "mashed potato topping"],
+    "keywords": ["british", "casserole", "beef"]
+  },
+  {
+    "name": "Beef Wellington",
+    "ingredients": ["beef tenderloin", "mushroom duxelles", "prosciutto", "puff pastry", "egg wash"],
+    "keywords": ["british", "beef", "gourmet"]
+  },
+  {
+    "name": "Toad in the Hole",
+    "ingredients": ["pork sausages", "yorkshire pudding batter", "onion gravy"],
+    "keywords": ["british", "baked", "comfort food"]
+  },
+  {
+    "name": "Sunday Roast Beef",
+    "ingredients": ["roast beef", "yorkshire pudding", "roast potatoes", "gravy", "horseradish"],
+    "keywords": ["british", "roast", "traditional"]
+  },
+  {
+    "name": "Bangers and Mash",
+    "ingredients": ["pork sausages", "mashed potatoes", "onion gravy"],
+    "keywords": ["british", "comfort food", "pub food"]
+  },
+  {
+    "name": "Lancashire Hotpot",
+    "ingredients": ["lamb chops", "kidneys", "onions", "sliced potatoes layered on top"],
+    "keywords": ["british", "stew", "north west"]
+  },
+  {
+    "name": "Cornish Pasty",
+    "ingredients": ["shortcrust pastry", "beef chunks", "swede", "potato", "onion", "black pepper"],
+    "keywords": ["british", "pastry", "cornwall"]
+  },
+  {
+    "name": "Scotch Eggs",
+    "ingredients": ["boiled eggs", "sausage meat", "breadcrumbs", "deep frying oil"],
+    "keywords": ["british", "snack", "picnic"]
+  },
+  {
+    "name": "Cullen Skink",
+    "ingredients": ["smoked haddock", "potatoes", "onions", "milk", "cream", "butter"],
+    "keywords": ["scottish", "soup", "seafood"]
+  },
+  {
+    "name": "Cock-a-Leekie Soup",
+    "ingredients": ["chicken", "leeks", "rice or barley", "chicken stock", "prunes"],
+    "keywords": ["scottish", "soup", "poultry"]
+  },
+  {
+    "name": "Stargazy Pie",
+    "ingredients": ["baked pastry", "whole sardines or herrings sticking out", "eggs", "potatoes"],
+    "keywords": ["british", "pie", "cornwall"]
+  },
+  {
+    "name": "Welsh Rarebit",
+    "ingredients": ["toasted bread", "melted cheese sauce", "ale", "mustard", "worcestershire sauce"],
+    "keywords": ["welsh", "cheese", "snack"]
+  },
+  {
+    "name": "Borscht",
+    "ingredients": ["beetroot", "cabbage", "potatoes", "beef or pork broth", "sour cream", "dill"],
+    "keywords": ["slavic", "soup", "beetroot"]
+  },
+  {
+    "name": "Solyanka",
+    "ingredients": ["pickles", "brine", "variety of meats or fish", "tomatoes", "capers", "lemon"],
+    "keywords": ["slavic", "soup", "tangy"]
+  },
+  {
+    "name": "Ukha",
+    "ingredients": ["clear fish soup", "potatoes", "carrots", "onions", "dill", "bay leaf"],
+    "keywords": ["slavic", "soup", "fish"]
+  },
+  {
+    "name": "Beef Stroganoff",
+    "ingredients": ["beef strips", "mushrooms", "sour cream", "onions", "mustard", "butter"],
+    "keywords": ["russian", "beef", "creamy"]
+  },
+  {
+    "name": "Pelmeni",
+    "ingredients": ["thin unleavened dough", "minced meat filling", "butter", "sour cream", "vinegar"],
+    "keywords": ["slavic", "dumplings", "comfort food"]
+  },
+  {
+    "name": "Vareniki",
+    "ingredients": ["dumpling dough", "potatoes or cottage cheese or cherry filling", "sour cream"],
+    "keywords": ["slavic", "dumplings", "versatile"]
+  },
+  {
+    "name": "Golubtsi",
+    "ingredients": ["cabbage leaves", "minced meat", "rice", "onions", "tomato sauce"],
+    "keywords": ["slavic", "stuffed cabbage", "comfort food"]
+  },
+  {
+    "name": "Pirozhki",
+    "ingredients": ["yeast dough", "meat or potato or cabbage filling", "baked or fried"],
+    "keywords": ["slavic", "pastry", "baked"]
+  },
+  {
+    "name": "Blini with Caviar",
+    "ingredients": ["yeast pancakes", "red or black caviar", "sour cream", "melted butter"],
+    "keywords": ["russian", "pancakes", "luxury"]
+  },
+  {
+    "name": "Chicken Kiev",
+    "ingredients": ["chicken breast", "garlic herb butter", "breading", "deep frying oil"],
+    "keywords": ["ukrainian", "poultry", "fried"]
+  },
+  {
+    "name": "Shashlik",
+    "ingredients": ["marinated meat skewers", "onions", "vinegar or yogurt marinade", "open fire"],
+    "keywords": ["slavic/caucasian", "skewers", "grilled"]
+  },
+  {
+    "name": "Plov",
+    "ingredients": ["rice", "lamb or beef chunks", "yellow carrots", "onions", "cumin", "cottonseed oil"],
+    "keywords": ["central asian", "rice dish", "hearty"]
+  },
+  {
+    "name": "Manti",
+    "ingredients": ["spiced minced meat", "onions", "dumpling wrappers", "steam cooked", "yogurt sauce"],
+    "keywords": ["central asian", "dumplings", "steamed"]
+  },
+  {
+    "name": "Chebureki",
+    "ingredients": ["deep-fried turnover", "ground meat", "onion filling", "flour dough"],
+    "keywords": ["crimean tatar", "fried", "street food"]
+  },
+  {
+    "name": "Khachapuri",
+    "ingredients": ["bread dough", "suluguni cheese", "butter", "egg yolk on top"],
+    "keywords": ["georgian", "bread", "cheese"]
+  },
+  {
+    "name": "Khinkali",
+    "ingredients": ["giant spiced meat dumplings", "broth inside", "black pepper"],
+    "keywords": ["georgian", "dumplings", "brothy"]
+  },
+  {
+    "name": "Plov Uzbecki",
+    "ingredients": ["long grain rice", "mutton", "garlic heads", "chickpeas", "raisins", "spices"],
+    "keywords": ["uzbek", "rice dish", "festive"]
+  },
+  {
+    "name": "Ćevapi",
+    "ingredients": ["minced meat skinless sausages", "somun flatbread", "raw chopped onions", "ajvar"],
+    "keywords": ["balkan", "grilled meat", "street food"]
+  },
+  {
+    "name": "Pljeskavica",
+    "ingredients": ["grilled spiced meat patty", "pork and beef mix", "flatbread", "kaymak"],
+    "keywords": ["balkan", "patty", "grilled"]
+  },
+  {
+    "name": "Sarma",
+    "ingredients": ["sour cabbage leaves", "minced pork", "rice", "smoked bacon", "paprika"],
+    "keywords": ["balkan", "stuffed rolls", "winter food"]
+  },
+  {
+    "name": "Goulash Soup",
+    "ingredients": ["beef chunks", "potatoes", "onions", "paprika", "caraway", "garlic"],
+    "keywords": ["hungarian", "soup", "paprika"]
+  },
+  {
+    "name": "Paprikash",
+    "ingredients": ["chicken or veal", "sour cream", "sweet paprika sauce", "butter", "flour"],
+    "keywords": ["hungarian", "stew", "creamy"]
+  },
+  {
+    "name": "Lángos",
+    "ingredients": ["fried yeast dough", "garlic butter", "sour cream", "grated cheese"],
+    "keywords": ["hungarian", "fried dough", "street food"]
+  },
+  {
+    "name": "Svíčková",
+    "ingredients": ["sirloin beef", "root vegetable cream sauce", "cranberries", "whipped cream", "dumplings"],
+    "keywords": ["czech", "beef", "traditional"]
+  },
+  {
+    "name": "Schnitzel à la Orava",
+    "ingredients": ["pork schnitzel", "smoked cheese", "ham", "breading", "frying oil"],
+    "keywords": ["slovak", "fried", "mains"]
+  },
+  {
+    "name": "Köttbullar",
+    "ingredients": ["minced beef and pork meatballs", "cream sauce", "lingonberry jam", "mashed potatoes"],
+    "keywords": ["swedish", "meatballs", "classic"]
+  },
+  {
+    "name": "Janssons Frestelse",
+    "ingredients": ["potatoes", "onions", "sprats", "heavy cream", "breadcrumbs"],
+    "keywords": ["swedish", "casserole", "anchovy-flavored"]
+  },
+  {
+    "name": "Pyttipanna",
+    "ingredients": ["diced potatoes", "onions", "sausages or meat scraps", "fried egg", "beetroot"],
+    "keywords": ["nordic", "hash", "quick meal"]
+  },
+  {
+    "name": "Smörgåstårta",
+    "ingredients": ["sandwich cake layers", "egg salad", "mayonnaise", "shrimp", "cucumber", "smoked salmon"],
+    "keywords": ["swedish", "cold dish", "party food"]
+  },
+  {
+    "name": "Gravlax",
+    "ingredients": ["raw salmon", "salt", "sugar", "fresh dill", "mustard sauce"],
+    "keywords": ["nordic", "fish", "cured"]
+  },
+  {
+    "name": "Surströmming",
+    "ingredients": ["fermented Baltic sea herring", "salt", "tunnbröd flatbread", "potatoes", "onions"],
+    "keywords": ["swedish", "fermented fish", "delicacy"]
+  },
+  {
+    "name": "Sild",
+    "ingredients": ["pickled herring", "vinegar", "onion", "mustard or cream sauce", "spices"],
+    "keywords": ["nordic", "fish", "appetizer"]
+  },
+  {
+    "name": "Fårikål",
+    "ingredients": ["mutton cuts", "cabbage wedges", "whole black peppercorns", "wheat flour", "water"],
+    "keywords": ["norwegian", "stew", "national dish"]
+  },
+  {
+    "name": "Rømtegrøt",
+    "ingredients": ["sour cream", "wheat flour", "whole milk", "butter", "sugar", "cinnamon"],
+    "keywords": ["norwegian", "porridge", "dairy"]
+  },
+  {
+    "name": "Lutefisk",
+    "ingredients": ["aged stockfish treated with lye", "water", "butter", "salt", "pepper"],
+    "keywords": ["nordic", "fish", "traditional"]
+  },
+  {
+    "name": "Raspeball",
+    "ingredients": ["raw grated potatoes", "barley flour", "salt", "pork fat center", "boiled"],
+    "keywords": ["norwegian", "potato dumpling", "hearty"]
+  },
+  {
+    "name": "Karjalanpiirakka",
+    "ingredients": ["rye crust", "rice porridge filling", "egg-butter spread"],
+    "keywords": ["finnish", "pastry", "karelia"]
+  },
+  {
+    "name": "Lohikeitto",
+    "ingredients": ["salmon chunks", "potatoes", "leeks or onions", "heavy cream", "fresh dill"],
+    "keywords": ["finnish", "soup", "seafood"]
+  },
+  {
+    "name": "Kalakeitto",
+    "ingredients": ["white fish", "potatoes", "carrots", "butter", "milk", "allspice", "dill"],
+    "keywords": ["finnish", "soup", "fish"]
+  },
+  {
+    "name": "Pyttipankku",
+    "ingredients": ["diced potatoes", "meat", "onions", "butter", "fried egg"],
+    "keywords": ["finnish", "hash", "comfort food"]
+  },
+  {
+    "name": "Smørrebrød",
+    "ingredients": ["dark rye bread", "butter", "cold cuts", "remoulade", "herring or roast beef toppings"],
+    "keywords": ["danish", "open sandwich", "lunch"]
+  },
+  {
+    "name": "Rød Pølse",
+    "ingredients": ["red-skinned pork sausage", "hot dog bun", "remoulade", "mustard", "crispy onions"],
+    "keywords": ["danish", "street food", "sausage"]
+  },
+  {
+    "name": "Frikadeller",
+    "ingredients": ["minced pork and veal", "milk", "onion", "egg", "breadcrumbs", "fried in butter"],
+    "keywords": ["danish", "meatballs", "pan-fried"]
+  },
+  {
+    "name": "Stegt Flæsk med Persillesovs",
+    "ingredients": ["crispy fried pork belly slices", "boiling potatoes", "parsley sauce"],
+    "keywords": ["danish", "pork", "national dish"]
+  },
+  {
+    "name": "Kroppkakor",
+    "ingredients": ["potato dumplings", "pork and onion filling", "lingonberry jam", "melted butter"],
+    "keywords": ["swedish", "dumplings", "traditional"]
+  },
+  {
+    "name": "Raggmunk",
+    "ingredients": ["grated raw potato pancakes", "flour", "milk", "egg", "fried in butter", "pork"],
+    "keywords": ["swedish", "pancakes", "savory"]
+  },
+  {
+    "name": "Palt",
+    "ingredients": ["raw potato dough", "barley flour", "pork filling", "boiled"],
+    "keywords": ["swedish", "dumplings", "norrland"]
+  },
+  {
+    "name": "Blodpudding",
+    "ingredients": ["pigs' blood", "milk", "flour", "beer or syrup", "pork fat", "spices"],
+    "keywords": ["swedish", "blood sausage", "traditional"]
+  },
+  {
+    "name": "Skagenröra",
+    "ingredients": ["shrimp", "mayonnaise", "creme fraiche", "dill", "lemon", "red onion", "fish roe"],
+    "keywords": ["swedish", "salad", "seafood"]
+  },
+  {
+    "name": "Äggakaka",
+    "ingredients": ["thick egg pancake", "flour", "milk", "salt", "fried pork belly cubes"],
+    "keywords": ["swedish", "pancake", "skåne"]
+  },
+  {
+    "name": "Mapo Tofu",
+    "ingredients": ["tofu", "minced beef or pork", "doubanjiang", "sichuan peppercorns", "chili oil", "scallions"],
+    "keywords": ["chinese", "spicy", "sichuan"]
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "ingredients": ["diced chicken", "peanuts", "vegetables", "chili peppers", "sichuan peppercorns", "soy sauce"],
+    "keywords": ["chinese", "stir-fry", "sichuan"]
+  },
+  {
+    "name": "Sweet and Sour Pork",
+    "ingredients": ["pork cubes", "batter", "bell peppers", "pineapples", "vinegar", "sugar", "ketchup"],
+    "keywords": ["chinese", "sweet and sour", "cantonese"]
+  },
+  {
+    "name": "Peking Duck",
+    "ingredients": ["whole duck", "maltose syrup", "cucumber", "scallions", "hoisin sauce", "thin pancakes"],
+    "keywords": ["chinese", "roasted", "beijing"]
+  },
+  {
+    "name": "Dim Sum Shumai",
+    "ingredients": ["pork", "shrimp", "mushrooms", "wonton wrapper", "tobiko roe"],
+    "keywords": ["chinese", "dim sum", "steamed"]
+  },
+  {
+    "name": "Har Gow",
+    "ingredients": ["shrimp", "bamboo shoots", "translucent tapioca-wheat wrapper"],
+    "keywords": ["chinese", "dim sum", "dumpling"]
+  },
+  {
+    "name": "Xiao Long Bao",
+    "ingredients": ["pork filling", "gelatinized pork broth aspic", "thin dough wrapper"],
+    "keywords": ["chinese", "soup dumplings", "shanghai"]
+  },
+  {
+    "name": "Wonton Soup",
+    "ingredients": ["pork and shrimp wontons", "clear chicken broth", "leafy greens", "sesame oil"],
+    "keywords": ["chinese", "soup", "comfort food"]
+  },
+  {
+    "name": "Char Siu",
+    "ingredients": ["pork shoulder", "honey", "five-spice powder", "hoisin sauce", "soy sauce", "fermented red bean curd"],
+    "keywords": ["chinese", "barbecue", "cantonese"]
+  },
+  {
+    "name": "Hainanese Chicken Rice",
+    "ingredients": ["poached chicken", "rice cooked in chicken fat and broth", "ginger-scallion sauce", "chili sauce"],
+    "keywords": ["chinese/southeast asian", "rice", "poultry"]
+  },
+  {
+    "name": "Dan Dan Noodles",
+    "ingredients": ["wheat noodles", "sichuan preserved vegetables", "chili oil", "sichuan pepper", "minced pork", "sesame paste"],
+    "keywords": ["chinese", "noodles", "spicy"]
+  },
+  {
+    "name": "Beef Chow Fun",
+    "ingredients": ["flat rice noodles", "beef slices", "bean sprouts", "scallions", "dark soy sauce"],
+    "keywords": ["chinese", "stir-fry noodles", "cantonese"]
+  },
+  {
+    "name": "Lanzhou Beef Noodles",
+    "ingredients": ["hand-pulled wheat noodles", "clear beef broth", "beef slices", "radish", "chili oil", "cilantro"],
+    "keywords": ["chinese", "noodles", "halal"]
+  },
+  {
+    "name": "Twice-Cooked Pork",
+    "ingredients": ["pork belly boiled then stir-fried", "fermented black beans", "doubanjiang", "leeks", "bell peppers"],
+    "keywords": ["chinese", "pork", "sichuan"]
+  },
+  {
+    "name": "Di San Xian",
+    "ingredients": ["potatoes", "eggplants", "bell peppers", "garlic", "soy sauce stir-fry"],
+    "keywords": ["chinese", "vegetarian", "dongbei"]
+  },
+  {
+    "name": "Tomato Egg Stir Fry",
+    "ingredients": ["eggs", "tomatoes", "sugar", "salt", "scallions", "oil"],
+    "keywords": ["chinese", "home-style", "quick"]
+  },
+  {
+    "name": "Hot Pot (Sichuan Style)",
+    "ingredients": ["spicy broth base", "sliced meats", "seafood", "tofu, vegetables", "dipping sauce"],
+    "keywords": ["chinese", "hot pot", "interactive"]
+  },
+  {
+    "name": "Scallion Pancakes",
+    "ingredients": ["flour dough", "minced scallions", "sesame oil", "pan-fried"],
+    "keywords": ["chinese", "bread", "snack"]
+  },
+  {
+    "name": "Claypot Rice",
+    "ingredients": ["rice", "chinese sausage", "chicken", "mushroom", "soy sauce", "crispy rice crust"],
+    "keywords": ["chinese", "claypot", "cantonese"]
+  },
+  {
+    "name": "Salt and Pepper Squid",
+    "ingredients": ["squid pieces", "cornstarch batter", "sichuan pepper", "salt", "chili", "garlic"],
+    "keywords": ["chinese", "seafood", "fried"]
+  },
+  {
+    "name": "Lion's Head Meatballs",
+    "ingredients": ["large pork meatballs", "napa cabbage", "chicken broth", "ginger", "soy sauce"],
+    "keywords": ["chinese", "meatballs", "huaiyang"]
+  },
+  {
+    "name": "Dongpo Pork",
+    "ingredients": ["pork belly", "soy sauce", "rice wine", "sugar", "scallions", "ginger", "slow-braised"],
+    "keywords": ["chinese", "pork", "hangzhou"]
+  },
+  {
+    "name": "Beggar's Chicken",
+    "ingredients": ["stuffed whole chicken", "wrapped in lotus leaves", "encased in clay", "baked"],
+    "keywords": ["chinese", "poultry", "traditional"]
+  },
+  {
+    "name": "Ants Climbing a Tree",
+    "ingredients": ["cellophane noodles", "minced pork", "doubanjiang", "garlic", "soy sauce", "scallions"],
+    "keywords": ["chinese", "noodles", "sichuan"]
+  },
+  {
+    "name": "Mapo Eggplant",
+    "ingredients": ["eggplant", "minced pork", "doubanjiang", "sichuan pepper", "garlic", "chili oil"],
+    "keywords": ["chinese", "vegetable dish", "sichuan"]
+  },
+  {
+    "name": "Tonkotsu Ramen",
+    "ingredients": ["pork bone broth", "ramen noodles", "chashu pork", "soft-boiled egg", "nori", "menma"],
+    "keywords": ["japanese", "ramen", "pork broth"]
+  },
+  {
+    "name": "Shoyu Ramen",
+    "ingredients": ["soy sauce-seasoned broth", "ramen noodles", "menma", "scallions", "chashu", "nori"],
+    "keywords": ["japanese", "ramen", "soy sauce"]
+  },
+  {
+    "name": "Miso Ramen",
+    "ingredients": ["fermented miso paste broth", "ramen noodles", "butter", "sweet corn", "ground pork", "bean sprouts"],
+    "keywords": ["japanese", "ramen", "hokkaido"]
+  },
+  {
+    "name": "Tsukemen",
+    "ingredients": ["chewy ramen noodles", "thick concentrated dipping broth", "chashu", "menma"],
+    "keywords": ["japanese", "ramen", "dipping noodles"]
+  },
+  {
+    "name": "Tempura Udon",
+    "ingredients": ["thick udon noodles", "hot dashi broth", "shrimp and vegetable tempura", "scallions"],
+    "keywords": ["japanese", "noodles", "udon"]
+  },
+  {
+    "name": "Zaru Soba",
+    "ingredients": ["chilled buckwheat noodles", "tsuyu dipping sauce", "wasabi", "nori", "scallions"],
+    "keywords": ["japanese", "noodles", "summer dish"]
+  },
+  {
+    "name": "Oyako-don",
+    "ingredients": ["chicken", "eggs", "onions", "sweet dashi soy broth", "steamed rice"],
+    "keywords": ["japanese", "rice bowl", "comfort food"]
+  },
+  {
+    "name": "Katsudon",
+    "ingredients": ["tonkatsu pork cutlet", "egg", "onion", "sweet dashi sauce", "rice bowl"],
+    "keywords": ["japanese", "rice bowl", "pork"]
+  },
+  {
+    "name": "Gyudon",
+    "ingredients": ["thinly sliced beef", "onions", "mildly sweet dashi-soy broth", "steamed rice", "raw egg yolk"],
+    "keywords": ["japanese", "rice bowl", "beef"]
+  },
+  {
+    "name": "Chicken Teriyaki",
+    "ingredients": ["chicken thigh", "soy sauce", "mirin", "sake", "sugar", "steamed rice"],
+    "keywords": ["japanese", "poultry", "glazed"]
+  },
+  {
+    "name": "Tonkatsu",
+    "ingredients": ["thick pork cutlet", "flour", "egg", "panko breadcrumbs", "deep-fried", "tonkatsu sauce"],
+    "keywords": ["japanese", "pork", "fried"]
+  },
+  {
+    "name": "Chicken Katsu",
+    "ingredients": ["chicken breast", "panko breadcrumbs", "deep-fried", "shredded cabbage"],
+    "keywords": ["japanese", "poultry", "fried"]
+  },
+  {
+    "name": "Gyoza",
+    "ingredients": ["minced pork", "cabbage", "garlic", "ginger", "dumpling wrappers", "pan-fried and steamed"],
+    "keywords": ["japanese", "dumplings", "pan-fried"]
+  },
+  {
+    "name": "Takoyaki",
+    "ingredients": ["wheat flour batter", "octopus pieces", "tempura scraps", "takoyaki sauce", "mayo", "bonito flakes"],
+    "keywords": ["japanese", "street food", "osaka"]
+  },
+  {
+    "name": "Okonomiyaki",
+    "ingredients": ["flour batter", "shredded cabbage", "pork belly slices", "egg", "okonomiyaki sauce", "mayo"],
+    "keywords": ["japanese", "savory pancake", "griddle"]
+  },
+  {
+    "name": "Monjayaki",
+    "ingredients": ["runny batter", "cabbage", "small seafood or meat pieces", "cooked on teppan iron griddle"],
+    "keywords": ["japanese", "street food", "tokyo"]
+  },
+  {
+    "name": "Karaage",
+    "ingredients": ["bite-sized chicken pieces", "soy sauce", "garlic", "ginger", "potato starch", "deep-fried"],
+    "keywords": ["japanese", "fried chicken", "izakaya"]
+  },
+  {
+    "name": "Agedashi Tofu",
+    "ingredients": ["tofu cubes", "potato starch coating", "deep-fried", "warm tentsuyu broth", "daikon", "katsuobushi"],
+    "keywords": ["japanese", "tofu", "appetizer"]
+  },
+  {
+    "name": "Sashimi Moriawase",
+    "ingredients": ["assorted raw fish slices like tuna", "salmon", "yellowtail", "daikon radish", "wasabi"],
+    "keywords": ["japanese", "raw fish", "seafood"]
+  },
+  {
+    "name": "Nigiri Sushi",
+    "ingredients": ["vinegared rice", "slice of raw fish or seafood draped on top", "wasabi"],
+    "keywords": ["japanese", "sushi", "classic"]
+  },
+  {
+    "name": "Chirashizushi",
+    "ingredients": ["sushi rice bowl", "topped with various raw sashimi slices", "roe", "garnish"],
+    "keywords": ["japanese", "sushi bowl", "seafood"]
+  },
+  {
+    "name": "Onigiri",
+    "ingredients": ["steamed rice ball", "umeboshi or tuna mayo filling", "nori seaweed wrap"],
+    "keywords": ["japanese", "snack", "rice"]
+  },
+  {
+    "name": "Chashu Don",
+    "ingredients": ["braised pork belly slices", "sweet soy glaze", "scallions", "onsen tamago egg", "rice"],
+    "keywords": ["japanese", "rice bowl", "pork"]
+  },
+  {
+    "name": "Nikujaga",
+    "ingredients": ["beef", "potatoes", "onion", "shirataki noodles", "sweet soy sauce broth", "simmered"],
+    "keywords": ["japanese", "home-cooking", "stew"]
+  },
+  {
+    "name": "Miso Soup",
+    "ingredients": ["dashi stock", "soft tofu cubes", "wakame seaweed", "scallions", "fermented miso paste"],
+    "keywords": ["japanese", "soup", "staple"]
+  },
+  {
+    "name": "Samgyeopsal",
+    "ingredients": ["thick pork belly slices", "grilled at table", "ssamjang", "garlic", "perilla leaves", "lettuce"],
+    "keywords": ["korean", "bbq", "pork"]
+  },
+  {
+    "name": "Galbi",
+    "ingredients": ["beef short ribs", "sweet soy-garlic marinade", "grilled over charcoal"],
+    "keywords": ["korean", "bbq", "beef"]
+  },
+  {
+    "name": "Bulgogi",
+    "ingredients": ["thinly sliced marinated beef", "garlic", "soy sauce", "sesame oil", "pear juice", "onions"],
+    "keywords": ["korean", "bbq", "beef"]
+  },
+  {
+    "name": "Dakgalbi",
+    "ingredients": ["diced chicken", "cabbage", "sweet potato", "scallions", "gochujang spicy sauce", "stir-fried on griddle"],
+    "keywords": ["korean", "spicy", "chicken"]
+  },
+  {
+    "name": "Jjimdak",
+    "ingredients": ["braised chicken", "glass noodles", "potatoes", "carrots", "soy-sauce based sweet and spicy sauce"],
+    "keywords": ["korean", "braised", "poultry"]
+  },
+  {
+    "name": "Sundubu-jjigae",
+    "ingredients": ["soft tofu", "seafood or pork", "gochugaru chili broth", "raw egg dropped in hot"],
+    "keywords": ["korean", "stew", "spicy"]
+  },
+  {
+    "name": "Kimchi-jjigae",
+    "ingredients": ["aged kimchi", "pork belly", "tofu", "anchovy or pork stock", "gochujang"],
+    "keywords": ["korean", "stew", "kimchi"]
+  },
+  {
+    "name": "Doenjang-jjigae",
+    "ingredients": ["fermented soybean paste", "tofu", "zucchini", "potatoes", "anchovy broth", "mushrooms"],
+    "keywords": ["korean", "stew", "soybean paste"]
+  },
+  {
+    "name": "Budae-jjigae",
+    "ingredients": ["spiced broth", "spam", "sausages", "baked beans", "ramen noodles", "sliced cheese", "kimchi"],
+    "keywords": ["korean", "fusion stew", "army base stew"]
+  },
+  {
+    "name": "Tteokbokki",
+    "ingredients": ["chewy rice cakes", "fish cakes", "sweet and spicy gochujang sauce", "boiled eggs", "scallions"],
+    "keywords": ["korean", "street food", "spicy"]
+  },
+  {
+    "name": "Jajangmyeon",
+    "ingredients": ["thick wheat noodles", "chunjang roasted black bean paste sauce", "diced pork", "onions", "zucchini"],
+    "keywords": ["korean-chinese", "noodles", "black bean sauce"]
+  },
+  {
+    "name": "Jjamppong",
+    "ingredients": ["spicy seafood noodle soup", "mussels", "squid", "shrimp", "cabbage", "chili oil"],
+    "keywords": ["korean-chinese", "noodles", "spicy seafood soup"]
+  },
+  {
+    "name": "Naengmyeon",
+    "ingredients": ["chwy thin buckwheat noodles", "icy beef broth", "mustard", "vinegar", "cucumber", "boiled egg"],
+    "keywords": ["korean", "cold noodles", "summer dish"]
+  },
+  {
+    "name": "Bibimbap",
+    "ingredients": ["rice bowl", "assorted seasoned vegetables (namul)", "beef", "gochujang", "fried egg"],
+    "keywords": ["korean", "rice bowl", "mixed"]
+  },
+  {
+    "name": "Dolsot Bibimbap",
+    "ingredients": ["bibimbap served in a sizzling hot stone bowl", "crispy rice crust bottom"],
+    "keywords": ["korean", "rice bowl", "sizzling"]
+  },
+  {
+    "name": "Haemul Pajeon",
+    "ingredients": ["scallion pancake", "mixed seafood like shrimp and squid", "flour and egg batter", "pan-fried"],
+    "keywords": ["korean", "pancake", "seafood"]
+  },
+  {
+    "name": "Bossam",
+    "ingredients": ["boiled pork belly slices", "salted napa cabbage leaves", "radish kimchi filling", "ssamjang"],
+    "keywords": ["korean", "pork", "boiled"]
+  },
+  {
+    "name": "Jokbal",
+    "ingredients": ["pig trotters", "braised in soy sauce, ginger, garlic, and master stock", "sliced thin"],
+    "keywords": ["korean", "pork", "chewy"]
+  },
+  {
+    "name": "Gamjatang",
+    "ingredients": ["pork bone stew", "potatoes", "dried radish greens", "perilla seed powder", "chili paste"],
+    "keywords": ["korean", "stew", "pork spine"]
+  },
+  {
+    "name": "Seolleongtang",
+    "ingredients": ["ox bone soup", "simmered for hours until milky white", "sliced brisket", "somen noodles", "scallions"],
+    "keywords": ["korean", "soup", "beef bone"]
+  },
+  {
+    "name": "Samgyetang",
+    "ingredients": ["whole young chicken stuffed with ginseng", "jujube", "garlic", "glutinous rice", "broth"],
+    "keywords": ["korean", "soup", "nourishing"]
+  },
+  {
+    "name": "Kimchi Fried Rice",
+    "ingredients": ["chopped kimchi", "kimchi juice", "rice", "spam or pork", "sesame oil", "fried egg on top"],
+    "keywords": ["korean", "fried rice", "quick"]
+  },
+  {
+    "name": "Manduguk",
+    "ingredients": ["korean meat and vegetable dumplings", "clear beef or anchovy broth", "scallions", "egg ribbons"],
+    "keywords": ["korean", "soup", "dumplings"]
+  },
+  {
+    "name": "Gimbap",
+    "ingredients": ["cooked rice", "pickled radish", "ham or bulgogi", "spinach", "egg", "wrapped in dried seaweed"],
+    "keywords": ["korean", "rice roll", "picnic food"]
+  },
+  {
+    "name": "Japchae",
+    "ingredients": ["sweet potato glass noodles", "stir-fried vegetables", "beef strips", "soy-sesame seasoning"],
+    "keywords": ["korean", "noodles", "glass noodles"]
+  },
+  {
+    "name": "Pad Thai",
+    "ingredients": ["rice noodles", "tamarind paste", "fish sauce", "shrimp or chicken", "tofu", "peanuts", "bean sprouts"],
+    "keywords": ["thai", "noodles", "stir-fried"]
+  },
+  {
+    "name": "Tom Yum Goong",
+    "ingredients": ["spicy and sour soup", "shrimp", "lemongrass", "galangal", "kaffir lime leaves", "bird's eye chili"],
+    "keywords": ["thai", "soup", "spicy and sour"]
+  },
+  {
+    "name": "Tom Kha Gai",
+    "ingredients": ["chicken coconut soup", "galangal", "lemongrass", "mushrooms", "lime juice", "chili"],
+    "keywords": ["thai", "soup", "coconut"]
+  },
+  {
+    "name": "Green Curry (Gaeng Keow Wan)",
+    "ingredients": ["green curry paste", "coconut milk", "chicken or beef", "thai eggplant", "sweet basil"],
+    "keywords": ["thai", "curry", "spicy"]
+  },
+  {
+    "name": "Massaman Curry",
+    "ingredients": ["massaman paste", "coconut milk", "beef chunks", "potatoes", "peanuts", "warm spices"],
+    "keywords": ["thai", "curry", "mild and rich"]
+  },
+  {
+    "name": "Som Tum",
+    "ingredients": ["unripe green papaya", "lime juice", "fish sauce", "palm sugar", "chili", "peanuts", "dried shrimp"],
+    "keywords": ["thai", "salad", "spicy and sour"]
+  },
+  {
+    "name": "Pad See Ew",
+    "ingredients": ["wide flat rice noodles", "dark soy sauce", "chinese broccoli", "egg", "chicken or pork"],
+    "keywords": ["thai", "noodles", "savory"]
+  },
+  {
+    "name": "Larb Moo",
+    "ingredients": ["minced pork salad", "roasted rice powder", "lime juice", "fish sauce", "fresh herbs", "chili"],
+    "keywords": ["thai", "salad", "minced meat"]
+  },
+  {
+    "name": "Khao Soi",
+    "ingredients": ["northern thai curry noodle soup", "crispy fried noodles on top", "chicken", "coconut milk", "pickled mustard greens"],
+    "keywords": ["thai", "noodles", "northern style"]
+  },
+  {
+    "name": "Tod Mun Pla",
+    "ingredients": ["fish cakes", "red curry paste", "long beans", "kaffir lime leaves", "fried", "sweet chili dip"],
+    "keywords": ["thai", "appetizer", "fried"]
+  },
+  {
+    "name": "Panaeng Curry",
+    "ingredients": ["thick panaeng curry paste", "coconut milk", "beef or chicken strips", "kaffir lime leaves"],
+    "keywords": ["thai", "curry", "rich"]
+  },
+  {
+    "name": "Rad Na",
+    "ingredients": ["pan-fried rice noodles", "thick gravy sauce", "chinese broccoli", "pork or seafood"],
+    "keywords": ["thai", "noodles", "gravy"]
+  },
+  {
+    "name": "Moo Ping",
+    "ingredients": ["grilled marinated pork skewers", "coconut milk", "garlic", "coriander root", "soy sauce"],
+    "keywords": ["thai", "street food", "skewers"]
+  },
+  {
+    "name": "Pho Bo",
+    "ingredients": ["beef rice noodle soup", "simmered beef bone broth", "spices", "rice noodles", "fresh herbs"],
+    "keywords": ["vietnamese", "soup", "beef"]
+  },
+  {
+    "name": "Pho Ga",
+    "ingredients": ["chicken rice noodle soup", "clear chicken broth", "shredded chicken", "herbs"],
+    "keywords": ["vietnamese", "soup", "chicken"]
+  },
+  {
+    "name": "Bánh Mì",
+    "ingredients": ["crispy baguette", "vietnamese cold cuts or grilled pork", "pickled daikon and carrot", "cilantro", "mayo"],
+    "keywords": ["vietnamese", "sandwich", "baguette"]
+  },
+  {
+    "name": "Bun Cha",
+    "ingredients": ["grilled pork patties and belly", "rice vermicelli noodles", "fish sauce dipping broth", "herbs"],
+    "keywords": ["vietnamese", "noodles", "hanoi style"]
+  },
+  {
+    "name": "Bún Rieu",
+    "ingredients": ["crab and tomato vermicelli soup", "pork and crab paste", "tofu", "tamarind broth"],
+    "keywords": ["vietnamese", "soup", "seafood"]
+  },
+  {
+    "name": "Bún Thit Nuong",
+    "ingredients": ["grilled pork over cold rice vermicelli noodles", "fresh salad", "peanuts", "fish sauce dressing"],
+    "keywords": ["vietnamese", "noodles", "cold noodle dish"]
+  },
+  {
+    "name": "Goi Cuon (Fresh Spring Rolls)",
+    "ingredients": ["rice paper wrappers", "shrimp", "pork slices", "vermicelli", "fresh herbs", "peanut dipping sauce"],
+    "keywords": ["vietnamese", "appetizer", "fresh roll"]
+  },
+  {
+    "name": "Bánh Xèo",
+    "ingredients": ["crispy rice flour crepe", "turmeric", "pork", "shrimp", "bean sprouts", "wrapped in greens"],
+    "keywords": ["vietnamese", "crepe", "crispy"]
+  },
+  {
+    "name": "Com Tam",
+    "ingredients": ["broken rice", "grilled pork chop (suon nuong)", "shredded pork skin", "fried egg", "fish sauce"],
+    "keywords": ["vietnamese", "rice dish", "saigon style"]
+  },
+  {
+    "name": "Cao Lau",
+    "ingredients": ["chewy wheat noodles", "sliced char siu pork", "herbs", "croutons", "little broth", "hoi an specialty"],
+    "keywords": ["vietnamese", "noodles", "regional"]
+  },
+  {
+    "name": "Mi Quang",
+    "ingredients": ["turmeric-infused wide rice noodles", "pork", "shrimp", "hard-boiled egg", "peanuts", "rich minimal broth"],
+    "keywords": ["vietnamese", "noodles", "central style"]
+  },
+  {
+    "name": "Bun Bo Hue",
+    "ingredients": ["spicy beef and pork noodle soup", "lemongrass", "chili oil", "thick rice vermicelli", "hue style"],
+    "keywords": ["vietnamese", "soup", "spicy"]
+  },
+  {
+    "name": "Nasi Goreng",
+    "ingredients": ["indonesian fried rice", "sweet soy sauce (kecap manis)", "shrimp paste (terasi)", "shallots", "egg"],
+    "keywords": ["indonesian", "fried rice", "staple"]
+  },
+  {
+    "name": "Mie Goreng",
+    "ingredients": ["stir-fried yellow noodles", "sweet soy sauce", "garlic", "shallots", "egg", "vegetables", "meat"],
+    "keywords": ["indonesian", "fried noodles", "street food"]
+  },
+  {
+    "name": "Beef Rendang",
+    "ingredients": ["beef chunks", "coconut milk", "lemongrass", "galangal", "turmeric leaves", "slow-cooked dry curry"],
+    "keywords": ["indonesian", "curry", "slow-cooked"]
+  },
+  {
+    "name": "Soto Ayam",
+    "ingredients": ["yellow spicy chicken soup", "shredded chicken", "vermicelli", "hard-boiled egg", "turmeric", "turmeric broth"],
+    "keywords": ["indonesian", "soup", "chicken"]
+  },
+  {
+    "name": "Gado-Gado",
+    "ingredients": ["blanched vegetables", "tofu", "tempeh", "hard-boiled eggs", "rich peanut sauce dressing", "crackers"],
+    "keywords": ["indonesian", "salad", "peanut sauce"]
+  },
+  {
+    "name": "Satay Ayam",
+    "ingredients": ["skewered and grilled chicken pieces", "sweet soy marinade", "spicy peanut sauce", "rice cakes"],
+    "keywords": ["indonesian/malay", "skewers", "grilled"]
+  },
+  {
+    "name": "Bakso",
+    "ingredients": ["indonesian meatball soup", "beef meatballs", "noodles", "fried wontons", "beef broth"],
+    "keywords": ["indonesian", "soup", "meatballs"]
+  },
+  {
+    "name": "Nasi Lemak",
+    "ingredients": ["coconut rice", "anchovies (ikan bilis)", "roasted peanuts", "cucumber", "hard-boiled egg", "sambal"],
+    "keywords": ["malaysian", "rice dish", "national dish"]
+  },
+  {
+    "name": "Laksa",
+    "ingredients": ["spicy coconut noodle soup", "rice noodles", "shrimp or chicken", "fish cakes", "laksa leaves"],
+    "keywords": ["malaysian/singaporean", "soup", "spicy noodles"]
+  },
+  {
+    "name": "Char Kway Teow",
+    "ingredients": ["flat rice noodles", "stir-fried over high heat", "chinese sausages", "eggs", "shrimp", "blood cockles", "lard"],
+    "keywords": ["malaysian/singaporean", "stir-fry", "noodles"]
+  },
+  {
+    "name": "Roti Canai",
+    "ingredients": ["flaky flatbread", "ghee", "stretched thin and pan-fried", "served with dhal curry dipping sauce"],
+    "keywords": ["malaysian", "flatbread", "breakfast"]
+  },
+  {
+    "name": "Bak Kut Teh",
+    "ingredients": ["pork ribs", "herbal soup broth simmered with star anise", "cinnamon", "garlic", "cloves"],
+    "keywords": ["malaysian/singaporean", "soup", "herbal pork rib"]
+  },
+  {
+    "name": "Chili Crab",
+    "ingredients": ["mud crabs", "sweet and savory tomato-chili sauce", "egg drop thickening", "mantou buns"],
+    "keywords": ["singaporean", "seafood", "crustacean"]
+  },
+  {
+    "name": "Hokkien Mee",
+    "ingredients": ["yellow egg noodles", "rice vermicelli", "prawn stock", "pork slices", "squid", "sambal"],
+    "keywords": ["singaporean/malay", "noodles", "seafood"]
+  },
+  {
+    "name": "Adobo (Chicken/Pork)",
+    "ingredients": ["chicken or pork pieces", "soy sauce", "vinegar", "garlic cloves", "bay leaves", "whole peppercorns"],
+    "keywords": ["filipino", "stew", "national dish"]
+  },
+  {
+    "name": "Sinigang na Baboy",
+    "ingredients": ["sour pork soup", "tamarind base", "radish", "eggplant", "water spinach", "tomatoes"],
+    "keywords": ["filipino", "soup", "sour"]
+  },
+  {
+    "name": "Lechon Kawali",
+    "ingredients": ["pork belly boiled then deep-fried", "crispy crackling skin", "lechon liver sauce"],
+    "keywords": ["filipino", "pork", "crispy"]
+  },
+  {
+    "name": "Pancit Palabok",
+    "ingredients": ["rice noodles", "shrimp gravy", "crushed pork rinds (chicharon)", "smoked fish flakes", "hard-boiled eggs"],
+    "keywords": ["filipino", "noodles", "seafood sauce"]
+  },
+  {
+    "name": "Sisig",
+    "ingredients": ["chopped grilled pig head parts", "liver spread", "calamansi", "onions", "chili peppers", "sizzling plate"],
+    "keywords": ["filipino", "pork", "sizzling app"]
+  },
+  {
+    "name": "Lumpia Shanghai",
+    "ingredients": ["crispy spring rolls", "minced pork filling", "carrots", "onions", "sweet chili dipping sauce"],
+    "keywords": ["filipino", "appetizer", "fried spring rolls"]
+  },
+  {
+    "name": "Kare-Kare",
+    "ingredients": ["oxtail", "tripe", "vegetables", "savory peanut sauce paste", "bagoong shrimp paste on side"],
+    "keywords": ["filipino", "stew", "peanut sauce"]
+  },
+  {
+    "name": "Arroz Caldo",
+    "ingredients": ["ginger-infused rice porridge", "chicken pieces", "toasted garlic bits", "scallions", "boiled egg"],
+    "keywords": ["filipino", "congee", "comfort food"]
+  },
+  {
+    "name": "Beef Tapa",
+    "ingredients": ["cured thin beef slices", "soy sauce", "calamansi marinade", "pan-fried", "served with garlic rice"],
+    "keywords": ["filipino", "beef", "breakfast"]
+  },
+  {
+    "name": "Bicol Express",
+    "ingredients": ["pork cubes", "lot of bird's eye chilies (siling labuyo)", "coconut milk", "shrimp paste", "garlic"],
+    "keywords": ["filipino", "spicy stew", "pork"]
+  },
+  {
+    "name": "Butter Chicken",
+    "ingredients": ["tandoori chicken pieces", "tomato and butter-rich creamy makhani sauce", "fenugreek leaves"],
+    "keywords": ["indian", "curry", "chicken"]
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "ingredients": ["marinated grilled chicken chunks", "spiced tomato-cream curry sauce", "bell peppers"],
+    "keywords": ["indian/british", "curry", "chicken"]
+  },
+  {
+    "name": "Rogan Josh",
+    "ingredients": ["tender lamb chunks", "braised gravy flavored with Kashmiri chili", "yogurt", "garlic", "ginger"],
+    "keywords": ["indian", "curry", "lamb"]
+  },
+  {
+    "name": "Dal Makhani",
+    "ingredients": ["whole black lentils", "kidney beans", "butter", "cream", "slow-cooked overnight on coals"],
+    "keywords": ["indian", "lentils", "vegetarian"]
+  },
+  {
+    "name": "Chana Masala",
+    "ingredients": ["chickpeas", "tomatoes", "onions", "garam masala", "amchur dry mango powder", "chili"],
+    "keywords": ["indian", "curry", "vegetarian"]
+  },
+  {
+    "name": "Palak Paneer",
+    "ingredients": ["paneer cheese cubes", "smooth pureed spinach gravy", "garlic", "ginger", "cream"],
+    "keywords": ["indian", "curry", "spinach and cheese"]
+  },
+  {
+    "name": "Malai Kofta",
+    "ingredients": ["paneer and potato dumpling balls", "rich and creamy cashew nut tomato gravy"],
+    "keywords": ["indian", "vegetarian", "rich curry"]
+  },
+  {
+    "name": "Biryani (Hyderabad Style)",
+    "ingredients": ["basmati rice", "marinated meat like chicken or mutton", "saffron", "yogurt", "fried onions", "dum cooked"],
+    "keywords": ["indian", "rice dish", "festive"]
+  },
+  {
+    "name": "Pulao",
+    "ingredients": ["basmati rice", "whole spices", "vegetables or meat", "ghee", "sautéed gently"],
+    "keywords": ["indian", "rice dish", "mild"]
+  },
+  {
+    "name": "Sambar",
+    "ingredients": ["yellow lentil soup", "tamarind broth", "drumsticks or vegetables", "sambar powder", "mustard seeds"],
+    "keywords": ["indian", "south indian", "lentil stew"]
+  },
+  {
+    "name": "Rasam",
+    "ingredients": ["spicy and sour soup", "tamarind", "tomatoes", "black pepper", "cumin", "garlic"],
+    "keywords": ["indian", "south indian", "soup"]
+  },
+  {
+    "name": "Masala Dosa",
+    "ingredients": ["fermented rice and lentil crepe", "spiced mashed potato filling", "coconut chutney", "sambar"],
+    "keywords": ["indian", "south indian", "crepe"]
+  },
+  {
+    "name": "Idli with Chutney",
+    "ingredients": ["steamed fermented rice and lentil batter cakes", "coconut chutney", "sambar"],
+    "keywords": ["indian", "south indian", "breakfast"]
+  },
+  {
+    "name": "Vada",
+    "ingredients": ["savory fried lentil doughnut", "crispy exterior", "fluffy interior", "served with chutney"],
+    "keywords": ["indian", "south indian", "fried snack"]
+  },
+  {
+    "name": "Pani Puri",
+    "ingredients": ["hollow crisp fried puris", "spiced potato-chickpea filling", "tangy mint-cilantro flavored water"],
+    "keywords": ["indian", "street food", "chat"]
+  },
+  {
+    "name": "Pav Bhaji",
+    "ingredients": ["spiced mashed vegetable curry", "butter-toasted soft bread rolls (pav)", "onions", "lemon"],
+    "keywords": ["indian", "street food", "mumbai style"]
+  },
+  {
+    "name": "Aloo Gobi",
+    "ingredients": ["potatoes", "cauliflower florets", "turmeric", "cumin", "ginger", "tomatoes", "dry stir-fry"],
+    "keywords": ["indian", "vegetable dish", "dry curry"]
+  },
+  {
+    "name": "Bhindi Masala",
+    "ingredients": ["okra slices", "onions", "tomatoes", "amchur powder", "coriander powder", "cumin"],
+    "keywords": ["indian", "okra", "dry curry"]
+  },
+  {
+    "name": "Fish Curry (Goan style)",
+    "ingredients": ["fish fillets", "coconut milk", "tamarind", "red chilies", "garlic", "coriander seeds"],
+    "keywords": ["indian", "seafood curry", "goa"]
+  },
+  {
+    "name": "Korma",
+    "ingredients": ["meat or vegetables", "yogurt or cream-based sauce", "cashew paste", "mild aromatic spices"],
+    "keywords": ["indian", "curry", "mild"]
+  },
+  {
+    "name": "Vindaloo",
+    "ingredients": ["meat", "fiery vinegar and garlic marinade", "kashmiri chilies", "spices", "goan style"],
+    "keywords": ["indian", "curry", "very spicy"]
+  },
+  {
+    "name": "Butter Naan",
+    "ingredients": ["leavened wheat flatbread", "baked in tandoor clay oven", "brushed with melted butter"],
+    "keywords": ["indian", "bread", "tandoori"]
+  },
+  {
+    "name": "Garlic Naan",
+    "ingredients": ["leavened wheat flatbread", "minced garlic", "cilantro", "baked in tandoor", "butter"],
+    "keywords": ["indian", "bread", "garlic"]
+  },
+  {
+    "name": "Paratha",
+    "ingredients": ["whole wheat layered flatbread", "ghee", "pan-fried on a tawa griddle"],
+    "keywords": ["indian", "bread", "layered"]
+  },
+  {
+    "name": "Samosa",
+    "ingredients": ["crispy pastry triangle", "spiced boiled potato and pea filling", "deep-fried", "chutney"],
+    "keywords": ["indian", "appetizer", "fried pastry"]
+  }
+]
