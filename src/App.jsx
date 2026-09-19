@@ -38,7 +38,12 @@ function App() {
     const controller = new AbortController()
     const timeout = setTimeout(() => controller.abort(), 20000)
     try {
-      const response = await fetch('/api/recipes', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ ingredients }), signal: controller.signal })
+      const response = await fetch('/api/recipes', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ingredients, mode: 'gemini' }),
+        signal: controller.signal,
+      })
       if (!response.ok) throw new Error('The pantry signal got scrambled.')
       const data = await response.json()
       setRecipes(data.recipes)

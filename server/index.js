@@ -4,6 +4,8 @@ import cors from 'cors'
 import { readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 
+import { searchGeminiRecipes } from './googleRecipes.js'
+
 const app = express()
 const port = process.env.PORT || 3001
 const recipesPath = fileURLToPath(new URL('../src/recipes.json', import.meta.url))
@@ -86,6 +88,18 @@ const matchRecipes = (pantry) => {
 app.post('/api/recipes', async (req, res) => {
   const items = Array.isArray(req.body?.ingredients) ? req.body.ingredients.filter((item) => typeof item === 'string').slice(0, 35) : []
   if (!items.length) return res.status(400).json({ error: 'Ingredients are required.' })
+
+  if (req.body?.mode === 'gemini' || req.body?.mode === 'google') {
+    try {
+      const geminiRecipes = await searchGeminiRecipes(items)
+      if (geminiRecipes.length) return res.json({ source: 'gemini', recipes: geminiRecipes })
+    } catch (error) {
+      console.warn('Gemini recipe lookup failed; falling back to catalog:', error.message)
+    }
+
+    return res.json({ source: 'catalog', recipes: matchRecipes(items) })
+  }
+
   return res.json({ source: 'catalog', recipes: matchRecipes(items) })
 })
 
