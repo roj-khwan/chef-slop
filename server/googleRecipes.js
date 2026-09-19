@@ -1,4 +1,4 @@
-const GEMINI_API = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent'
+const GEMINI_API = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent'
 
 export const buildGeminiRecipePrompt = (pantry = []) => {
   const uniqueIngredients = Array.from(new Set(pantry.map((item) => item.trim()).filter(Boolean)))
